@@ -169,7 +169,7 @@ h3 {
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
     scroll-padding: 1rem;
-    padding: 2rem 0;
+    padding: 2rem 0 4rem 0;
 }
 
 .main-table {
