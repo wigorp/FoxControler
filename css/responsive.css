@@ -1,0 +1,12 @@
+@media only screen and (max-width: 900px) {
+    html {
+        font-size: 12px;
+    }
+
+    .action-pills {
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        gap: 1.7rem;
+    }
+}
