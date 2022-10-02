@@ -175,7 +175,7 @@ h3 {
 .main-table {
     border-collapse: collapse;
     width: 100%;
-    text-align: left;
+    text-align: center;
     white-space: nowrap;
 }
 
