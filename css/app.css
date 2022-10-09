@@ -71,7 +71,7 @@ h3 {
     border-radius: 50em;
     outline: none;
     border: 1px solid var(--txt-l3);
-    background-color: red;
+    background-color: var(--bg-l1);
     color: var(--txt-l2);
     -webkit-transition: all 0.2s;
     -o-transition: all 0.2s;
